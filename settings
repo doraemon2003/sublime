@@ -1,0 +1,8 @@
+{
+    "dictionary": "Packages/Language - English/en_GB.dic",
+    "font_size": 13,
+    "trim_trailing_white_space_on_save": true,
+    "ignored_packages": [""],
+    "vintage_ctrl_keys": true,
+    "translate_tabs_to_spaces": true
+}
